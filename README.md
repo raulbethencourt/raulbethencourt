@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Spanish developper based in Strasbourg, France.
+### I'm a Spanish developper based in Strasbourg, France.
 #### Here is my profile at [sourcerer.io](https://sourcerer.io/raulbethencourt). 
 <!--
 **raulbethencourt/raulbethencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
