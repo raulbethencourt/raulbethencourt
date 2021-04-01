@@ -1,12 +1,16 @@
 ## Hi there 👋
 ### I'm a Spanish developper based in Strasbourg, France.
 #### Here is my personal [portfolio](https://www.raulbethencourt.com) where you can see my latest projects. 
+
+- 🔭 I’m currently working on Contact et Promotion pedagoguique plataform
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulbethencourt)](https://github.com/raulbethencourt/github-readme-stats)
 <!--
 **raulbethencourt/raulbethencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
