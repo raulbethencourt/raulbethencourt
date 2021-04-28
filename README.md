@@ -4,6 +4,13 @@
 
 - 🔭 I’m currently working on Contact et Promotion pedagoguique plataform
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulbethencourt&layout=compact&theme=gruvbox" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbethencourt&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
