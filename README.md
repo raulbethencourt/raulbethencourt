@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I'm a Spanish developper based in Strasbourg, France.
-#### Here is my personal [portfolio](https://www.raulbethencourt.com) where you can see my latest projects. 
+### I'm a Spanish developer based in Strasbourg, France.
+#### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
 
 - 🔭 I’m currently working on Contact et Promotion pedagoguique plataform
 - 🌱 I’m currently learning JavaScript and VueJs
