@@ -3,7 +3,7 @@
 #### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
 
 - 🔭 I’m currently working on Contact et Promotion pedagoguique plataform
-- 🌱 I’m currently learning JavaScript and VueJs
+- 🌱 I’m currently learning PHP and Symfony
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
