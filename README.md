@@ -2,8 +2,8 @@
 ### I'm a Spanish developer based in Strasbourg, France.
 #### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
 
-- 🔭 I’m currently working on Contact et Promotion pedagoguique plataform
-- 🌱 I’m currently learning PHP and Symfony
+- 🔭 I’m currently working at Bluenote-systems
+- 🌱 I’m currently learning Python
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
