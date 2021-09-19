@@ -1,5 +1,10 @@
-## Hi there 👋
-### I'm a Spanish developer based in Strasbourg, France.
+# HELLO WORLD 👋
+
+<p align="center">
+  <img align="middle" src="https://media.giphy.com/media/3ohs4CacylzFaHjMM8/giphy.gif" alt="My Project GIF" width="400" height="280">
+</p>
+
+## I'm a Spanish developer based in Strasbourg, France.
 #### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
 
 - 🔭 I’m currently working at Bluenote-systems
