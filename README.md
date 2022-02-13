@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working at Bluenote-systems
 - 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Rust
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
