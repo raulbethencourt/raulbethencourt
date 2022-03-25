@@ -8,7 +8,6 @@
 #### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
 
 - 🔭 I’m currently working at Bluenote-systems
-- 🌱 I’m currently learning Python
 - 🌱 I’m currently learning Rust
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
