@@ -1,5 +1,3 @@
-# HELLO WORLD 👋
-
 <p align="center">
   <img align="middle" src="https://media.giphy.com/media/3ohs4CacylzFaHjMM8/giphy.gif" alt="My Project GIF" width="400" height="280">
 </p>
@@ -12,9 +10,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulbethencourt&layout=compact&theme=gruvbox" />
 </a>
 
 <!--
