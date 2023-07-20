@@ -3,7 +3,7 @@
 </p>
 
 ## I'm a Spanish developer based in Strasbourg, France.
-#### Here is my personal [portfolio](https://www.raulbethencourt.com), where you can see my latest projects. 
+#### Here is my personal [portfolio](https://raulbethencourt.netlify.app/fr/), where you can see my latest projects. 
 
 - 🔭 I’m currently working at Bluenote-systems
 - 🌱 I’m currently learning Rust
