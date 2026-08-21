@@ -8,8 +8,8 @@
 - 🔭 I’m currently working at Bluenote-systems
 - 🌱 I’m currently learning C language
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=raulbethencourt&show_icons=true&theme=gruvbox" />
 </a>
 
 <!--
